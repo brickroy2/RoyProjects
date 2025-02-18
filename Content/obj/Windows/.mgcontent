@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/eitan/source/repos/Platformer2/Content/../../../../Desktop/VSpictures/bigBackgroundLight.png</File>
+    <File>C:/Users/eitan/source/repos/Platformer2/Content/../../../../Desktop/VSpictures/bigBackgroundLightMono.bmp</File>
+    <File>C:/Users/eitan/source/repos/Platformer2/Content/../../../../Desktop/VSpictures/bigBackgroundLightSmall.png</File>
+    <File>C:/Users/eitan/source/repos/Platformer2/Content/../../../../Desktop/VSpictures/figure1.png</File>
+    <File>C:/Users/eitan/source/repos/Platformer2/Content/ArialFont.spritefont</File>
+    <File>C:/Users/eitan/source/repos/Platformer2/Content/bullet.png</File>
+    <File>C:/Users/eitan/source/repos/Platformer2/Content/DarkerMap.png</File>
+    <File>C:/Users/eitan/source/repos/Platformer2/Content/DarkerMapMono.bmp</File>
+    <File>C:/Users/eitan/source/repos/Platformer2/Content/DarkerMapSmall.png</File>
+    <File>C:/Users/eitan/source/repos/Platformer2/Content/dryMap.png</File>
+    <File>C:/Users/eitan/source/repos/Platformer2/Content/dryMapMono.bmp</File>
+    <File>C:/Users/eitan/source/repos/Platformer2/Content/dryMapSmaller.png</File>
+    <File>C:/Users/eitan/source/repos/Platformer2/Content/emptyheartSmall.png</File>
+    <File>C:/Users/eitan/source/repos/Platformer2/Content/EnemyExample.png</File>
+    <File>C:/Users/eitan/source/repos/Platformer2/Content/LegoBackground.jpeg</File>
+    <File>C:/Users/eitan/source/repos/Platformer2/Content/MonocromeTextured.bmp</File>
+    <File>C:/Users/eitan/source/repos/Platformer2/Content/redheartSmall.png</File>
+    <File>C:/Users/eitan/source/repos/Platformer2/Content/TexturedMap.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>bigBackgroundLight.png</File>
+    <File>bigBackgroundLightMono.bmp</File>
+    <File>bigBackgroundLightSmall.png</File>
+    <File>figure1.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
