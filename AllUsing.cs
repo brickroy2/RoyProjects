@@ -27,7 +27,6 @@ namespace Platformer2
             if (this.name == other.name && this.password == other.password)
                 return true;
             return false;
-
         }
     }
 

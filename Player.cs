@@ -180,7 +180,7 @@ namespace Platformer2
 
         public void isStuck()
         { //fixing a bug in the game, the player sometimes gets
-          //stuck in the ground without being able to move
+          //stuck in the ground without being able to move because of updating issue
             if (!canGo(Direction.Right) && !canGo(Direction.Left) && canGo(Direction.Up))
             {
                 Position.Y -= 5;
